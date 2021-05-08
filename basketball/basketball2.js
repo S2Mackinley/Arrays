@@ -1,0 +1,1 @@
+const points = (two, three) => two * 2 + three * 3
